@@ -1,7 +1,7 @@
 # GameClips
 A lightweight Windows desktop application that automatically detects your latest gameplay recordings and seamlessly uploads them to your Google Drive, saving local storage effortlessly.
 
-
+P.S. The code comments are in Spanish; use a translator to understand them better.
 
 
 
