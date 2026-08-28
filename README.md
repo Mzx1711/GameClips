@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Open `GameClips.py` and edit:
 
 ```python
-CARPETA_CLIPS = r"C:\Users\YOUR_USER\Videos\NVIDIA\Highlights" or another directory
+CARPETA_CLIPS = r"C:\Users\YOUR_USER\Videos\NVIDIA\Highlights"
 CARPETA_DRIVE_ID = "YOUR_DRIVE_FOLDER_ID_HERE"
 ```
 
