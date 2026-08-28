@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ### 3. Configure the script
 
-Open `GameClips.py` and edit:
+Open `Gameclips.py` and edit:
 
 ```python
 CARPETA_CLIPS = r"C:\Users\YOUR_USER\Videos\NVIDIA\Highlights"
@@ -50,7 +50,7 @@ CARPETA_DRIVE_ID = "YOUR_DRIVE_FOLDER_ID_HERE"
 ### 4. Fire it up!
 
 ```bash
-python GameClips.py
+python Gameclips.py
 ```
 
 The first run opens your browser to authorize access. After that, everything runs automatically.
