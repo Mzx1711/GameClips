@@ -40,10 +40,10 @@ pip install -r requirements.txt
 
 ### 3. Configure the script
 
-Open `subir_clips_drive.py` and edit:
+Open `GameClips.py` and edit:
 
 ```python
-CARPETA_CLIPS = r"C:\Users\YOUR_USER\Videos\NVIDIA\Highlights"
+CARPETA_CLIPS = r"C:\Users\YOUR_USER\Videos\NVIDIA\Highlights" or another directory
 CARPETA_DRIVE_ID = "YOUR_DRIVE_FOLDER_ID_HERE"
 ```
 
