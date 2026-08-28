@@ -50,7 +50,7 @@ CARPETA_DRIVE_ID = "YOUR_DRIVE_FOLDER_ID_HERE"
 ### 4. Fire it up!
 
 ```bash
-python subir_clips_drive.py
+python GameClips.py
 ```
 
 The first run opens your browser to authorize access. After that, everything runs automatically.
