@@ -5,23 +5,23 @@ P.S. The code comments are in Spanish; use a translator to understand them bette
 
 
 
-# 🎮 Automatic Game Clip Upload to Google Drive
+#  Automatic Game Clip Upload to Google Drive
 
 **Stop uploading your clips by hand.** This project watches the folder where your PC saves your best plays and uploads them to Google Drive on its own, the moment they finish recording. Turn on your PC, play, and your clips are already safe in the cloud — no extra work required.
 
 ---
 
-## ✨ What it does
+##  What it does
 
-- 👀 Watches your clips folder in real time
-- ⏳ Waits until the file is fully written (no corrupted uploads)
-- ☁️ Automatically uploads it to the Drive folder you choose
-- 🔁 Resumes automatically if the connection drops mid-upload
-- 🚫 Never uploads the same clip twice
+-  Watches your clips folder in real time
+-  Waits until the file is fully written (no corrupted uploads)
+-  Automatically uploads it to the Drive folder you choose
+-  Resumes automatically if the connection drops mid-upload
+-  Never uploads the same clip twice
 
 ---
 
-## 🚀 Getting started
+##  Getting started
 
 ### 1. Install dependencies
 
@@ -61,13 +61,13 @@ Set it up in **Windows Task Scheduler** to run at login, and forget it exists.
 
 ---
 
-## 💰 Does it cost anything?
+##  Does it cost anything?
 
 **No.** The Google Drive API is free for personal use, and the script runs on your own PC. The only thing you might eventually need is more Drive storage if you fill up the free 15 GB.
 
 ---
 
-## ⚠️ Things to keep in mind
+##  Things to keep in mind
 
 | Problem | How the script already handles it |
 |---|---|
